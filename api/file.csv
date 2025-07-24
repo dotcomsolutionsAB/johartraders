@@ -1,0 +1,6 @@
+SKU,Merchant Item ID,Product Name,Description,Technical Specification,Stock,Status,Tax Rate,Category,Sub Category,Purcahse Price,MRP,Regular Price,Sale Price,Images,PDF,Weight (Kgs),Lenght (cm),Breadth (cm),Height (cm),SD Title,Features 1,Features 2,Features 3,Features 4,Features 5,Features 6,Features 7,Features 8,Features 9,Features 10,Draft,Brand,Model No,Port Size
+R13614,R13614,Janatics Air Regulator,,,10,Publish,18,Air Preparation Units,Regulator,527,703,830,979,https://5.imimg.com/data5/SG/UR/ZR/SELLER-89602881/pneumatic-regulator-500x500.jpg,,0.2,,,,Features,Conform to ISO 6953 - 1,Suitable for panel and modular mountings,Non raising Press to Lock adjusting knob for locking at any set pressure,"Diaphragm operated, relieving type",Pressure compensated by balanced poppet,"Flow compensated in models R14, R15 and R17 (with venturi) for faster response",Good flow and regulating characteristics,,,,,Janatics,R13614,1/4
+R14624,R14624,Janatics Air Regulator,,,10,Publish,18,,,866,1154,1362,1607,,,0.5,,,,,,,,,,,,,,,,,R14624,3/8
+R15634,R15634,Janatics Air Regulator,,,10,Publish,18,,,1100,1467,1731,2043,,,0.9,,,,,,,,,,,,,,,,,R15634,1/2
+R17644,R17644,Janatics Air Regulator,,,10,Publish,18,,,2252,3002,3542,4180,,,1.5,,,,,,,,,,,,,,,,,R17644,3/4
+R17654,R17654,Janatics Air Regulator,,,10,Publish,18,,,2455,3273,3862,4557,,,1.8,,,,,,,,,,,,,,,,,R17654,1
